@@ -1,4 +1,4 @@
-# CSCI 2275 – Data Structures - Final Project
+# MiniGit
 
 Jasdeep Singh
 
