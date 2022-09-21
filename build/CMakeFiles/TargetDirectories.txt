@@ -1,0 +1,5 @@
+/home/jovyan/final-project-jasdeep/build/CMakeFiles/rebuild_cache.dir
+/home/jovyan/final-project-jasdeep/build/CMakeFiles/edit_cache.dir
+/home/jovyan/final-project-jasdeep/build/CMakeFiles/test.dir
+/home/jovyan/final-project-jasdeep/build/CMakeFiles/run_app_1.dir
+/home/jovyan/final-project-jasdeep/build/CMakeFiles/run_tests.dir

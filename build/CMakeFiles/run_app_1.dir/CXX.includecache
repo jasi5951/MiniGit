@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/final-project-jasdeep/code_1/hash.hpp
+string.h
+-
+string
+-
+vector
+-
+algorithm
+-
+
+/home/jovyan/final-project-jasdeep/code_1/miniGit.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+filesystem
+-
+miniGit.hpp
+/home/jovyan/final-project-jasdeep/code_1/miniGit.hpp
+vector
+-
+
+/home/jovyan/final-project-jasdeep/code_1/miniGit.hpp
+iostream
+-
+vector
+-
+hash.hpp
+/home/jovyan/final-project-jasdeep/code_1/hash.hpp
+
